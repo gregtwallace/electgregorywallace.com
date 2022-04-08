@@ -6,7 +6,7 @@ const ParkingNotice = () => {
     return (
         <div className="parking_notice">
 
-            <h2>This domain is parked.</h2>
+            <h1>This domain is parked.</h1>
 
         </div>
     )

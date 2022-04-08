@@ -1,15 +1,7 @@
-import "./ParkingNotice.css";
+import './ParkingNotice.css';
 
 const ParkingNotice = () => {
-
-
-    return (
-        <div className="parking_notice">
-
-            <h1>This domain is parked.</h1>
-
-        </div>
-    )
-}
+  return <h1 className='parking_notice'>This domain is parked.</h1>;
+};
 
 export default ParkingNotice;
